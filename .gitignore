@@ -1,1 +1,5 @@
 pkg/
+.idea
+output
+src
+Gemfile.lock
